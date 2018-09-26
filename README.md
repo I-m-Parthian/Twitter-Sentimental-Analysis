@@ -1,4 +1,4 @@
-Twitter-Sentiment-Analysis
+#Twitter-Sentiment-Analysis
 
 Description :-
 
@@ -7,21 +7,35 @@ program) and calculate sentiment of each tweet with sentiment of each word where
 negative or neutral.
 Prerequisites :-
 
+
 • Python 3
   ($ sudo apt-get install python)
+  
+  
 • python-twitter package
   ($pip install python-twitter)
+  
 Running :-
 
  On Ubuntu : Run files in following order
+ 
+ 
     •	$ python3.x twitterstream.py
+    
+    
     •	$ python3.x tweet_sentiment.py sentiments.txt output.txt
+    
+    
     • $ python3.x tweet_sentiment.py sentiments.txt output.txt
 
 On Windows :
+
+
       •	open any IDE (like spyder, python TDE ...) and click on Compile and Run option and run in similar manner.
 
 On Dos : Run files in following order
+
+
     •	$ python3.x twitterstream.py
     •	$ python3.x tweet_sentiment.py sentiments.txt output.txt
     • $ python3.x tweet_sentiment.py sentiments.txt output.txt 
