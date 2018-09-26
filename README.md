@@ -1,4 +1,4 @@
-#Twitter-Sentiment-Analysis
+Twitter-Sentiment-Analysis
 
 Description :-
 
@@ -22,7 +22,7 @@ Running :-
  
     •	$ python3.x twitterstream.py
     •	$ python3.x tweet_sentiment.py sentiments.txt output.txt
-    • $ python3.x tweet_sentiment.py sentiments.txt output.txt
+    •       $ python3.x tweet_sentiment.py sentiments.txt output.txt
 
 On Windows :
 
